@@ -1,0 +1,3 @@
+/Users/dmitrijiakovlev/Desktop/Program/CLion/Chapter5/cmake-build-debug/CMakeFiles/Chapter5.dir
+/Users/dmitrijiakovlev/Desktop/Program/CLion/Chapter5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dmitrijiakovlev/Desktop/Program/CLion/Chapter5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
